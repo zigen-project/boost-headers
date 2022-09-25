@@ -1,0 +1,15 @@
+= Boost headers
+
+Prebuild https://www.boost.org/[Boost] headers of version 1.80.0
+
+== Project structure
+
+....
+project-root
+├── include/ : Contents of Boost includes directory (generated)
+├── Boost_COMMIT_HASH.txt : Commit hash used for build (generated)
+├── Boost_LICENSE_1_0.txt : Boost license (generated)
+├── Boost_README.md : Boost README file (generated)
+├── Makefile : Makefile to generate files
+└── README.adoc : this README
+....
