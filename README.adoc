@@ -1,6 +1,6 @@
 = Boost headers
 
-Prebuild https://www.boost.org/[Boost] headers of version 1.80.0
+Prebuilt https://www.boost.org/[Boost] headers of version 1.80.0
 
 == Project structure
 
